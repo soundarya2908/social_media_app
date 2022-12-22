@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://soundaryas98:soundaryas98@cluster0.hgjfkqu.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://soundaryas98:soundaryas98@cluster0.hgjfkqu.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken"
 }
